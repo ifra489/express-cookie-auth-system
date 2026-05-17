@@ -1,0 +1,18 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "main": "authentication.js",
+  "scripts": {
+    "server": "nodemon authentication.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
